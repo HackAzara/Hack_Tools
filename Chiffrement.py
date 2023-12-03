@@ -90,7 +90,7 @@ def main():
     print(colored("                                            Author: H4ckAzara", 'red'))
     print(colored("                                            Copyright: H4ckAzara (2023)", 'red'))
     print(colored("                                            Github : https://github.com/HackAzara", 'red'))
-    print(colored("                                            Telegram : @h4ckAzara", 'red'))
+    print(colored("                                            Telegram : t.me/hackAzara", 'red'))
     print(colored("                                            Description: A tool for encrypting and decrypting files\n", 'red'))
 
     import argparse
