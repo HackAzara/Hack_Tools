@@ -1,5 +1,7 @@
 # Encryptor Script
 
+![Encrypt Files](Encrypt.png)
+
 ## Overview
 
 Encryptor Script is a tool for encrypting and decrypting files using a password. It uses the Fernet symmetric key encryption algorithm to ensure the security of your sensitive data.
