@@ -36,14 +36,14 @@ python3 your_script_name.py your_file.txt -e
 python3 your_script_name.py your_file.txt -d
 
 
-Author
+Author: 
 H4ckAzara
 
-Email
+Email: 
 h4ckazara@gmail.com
 
-GitHub
+GitHub: 
 https://github.com/HackAzara
 
-Telegram
+Telegram: 
 t.me/hackAzara
